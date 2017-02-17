@@ -1,5 +1,5 @@
 <?php
 git a
-hehinde 5 commit
+hehinde 5 com
 ?>
 
